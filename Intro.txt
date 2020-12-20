@@ -1,0 +1,3 @@
+This is created to practise the excercises the book MEAN web development.
+
+Plan is to mimic the concepts tought in the book.
